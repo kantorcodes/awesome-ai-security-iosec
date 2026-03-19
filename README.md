@@ -170,7 +170,6 @@ Tools built and maintained by [iosec.in](https://iosec.in):
 |------|------|-------|
 | PIMap | [iosec-shekhar/pimap](https://github.com/iosec-shekhar/pimap) | Prompt injection testing |
 | COIT | [iosec-shekhar/coit](https://github.com/iosec-shekhar/coit) | OT CVE impact translation |
-| Firmware Threat Model | [iosec-shekhar/firmware-threat-model](https://github.com/iosec-shekhar/firmware-threat-model) | Firmware STRIDE analysis |
 | OT CVE Research | [iosec-shekhar/ot-cve-research](https://github.com/iosec-shekhar/ot-cve-research) | OT threat landscape research |
 
 ---
